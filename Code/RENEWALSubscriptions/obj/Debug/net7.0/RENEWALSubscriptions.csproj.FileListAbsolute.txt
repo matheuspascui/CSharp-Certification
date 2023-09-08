@@ -1,0 +1,14 @@
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\RENEWALSubscriptions\bin\Debug\net7.0\RENEWALSubscriptions.exe
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\RENEWALSubscriptions\bin\Debug\net7.0\RENEWALSubscriptions.deps.json
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\RENEWALSubscriptions\bin\Debug\net7.0\RENEWALSubscriptions.runtimeconfig.json
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\RENEWALSubscriptions\bin\Debug\net7.0\RENEWALSubscriptions.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\RENEWALSubscriptions\bin\Debug\net7.0\RENEWALSubscriptions.pdb
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\RENEWALSubscriptions\obj\Debug\net7.0\RENEWALSubscriptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\RENEWALSubscriptions\obj\Debug\net7.0\RENEWALSubscriptions.AssemblyInfoInputs.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\RENEWALSubscriptions\obj\Debug\net7.0\RENEWALSubscriptions.AssemblyInfo.cs
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\RENEWALSubscriptions\obj\Debug\net7.0\RENEWALSubscriptions.csproj.CoreCompileInputs.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\RENEWALSubscriptions\obj\Debug\net7.0\RENEWALSubscriptions.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\RENEWALSubscriptions\obj\Debug\net7.0\refint\RENEWALSubscriptions.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\RENEWALSubscriptions\obj\Debug\net7.0\RENEWALSubscriptions.pdb
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\RENEWALSubscriptions\obj\Debug\net7.0\RENEWALSubscriptions.genruntimeconfig.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\RENEWALSubscriptions\obj\Debug\net7.0\ref\RENEWALSubscriptions.dll

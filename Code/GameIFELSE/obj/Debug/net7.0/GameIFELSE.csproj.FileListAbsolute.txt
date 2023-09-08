@@ -1,0 +1,14 @@
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\GameIFELSE\bin\Debug\net7.0\GameIFELSE.exe
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\GameIFELSE\bin\Debug\net7.0\GameIFELSE.deps.json
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\GameIFELSE\bin\Debug\net7.0\GameIFELSE.runtimeconfig.json
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\GameIFELSE\bin\Debug\net7.0\GameIFELSE.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\GameIFELSE\bin\Debug\net7.0\GameIFELSE.pdb
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\GameIFELSE\obj\Debug\net7.0\GameIFELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\GameIFELSE\obj\Debug\net7.0\GameIFELSE.AssemblyInfoInputs.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\GameIFELSE\obj\Debug\net7.0\GameIFELSE.AssemblyInfo.cs
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\GameIFELSE\obj\Debug\net7.0\GameIFELSE.csproj.CoreCompileInputs.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\GameIFELSE\obj\Debug\net7.0\GameIFELSE.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\GameIFELSE\obj\Debug\net7.0\refint\GameIFELSE.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\GameIFELSE\obj\Debug\net7.0\GameIFELSE.pdb
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\GameIFELSE\obj\Debug\net7.0\GameIFELSE.genruntimeconfig.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\GameIFELSE\obj\Debug\net7.0\ref\GameIFELSE.dll

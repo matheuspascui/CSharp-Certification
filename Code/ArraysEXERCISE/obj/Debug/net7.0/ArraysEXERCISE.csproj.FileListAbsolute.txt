@@ -1,0 +1,14 @@
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\ArraysEXERCISE\bin\Debug\net7.0\ArraysEXERCISE.exe
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\ArraysEXERCISE\bin\Debug\net7.0\ArraysEXERCISE.deps.json
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\ArraysEXERCISE\bin\Debug\net7.0\ArraysEXERCISE.runtimeconfig.json
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\ArraysEXERCISE\bin\Debug\net7.0\ArraysEXERCISE.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\ArraysEXERCISE\bin\Debug\net7.0\ArraysEXERCISE.pdb
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\ArraysEXERCISE\obj\Debug\net7.0\ArraysEXERCISE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\ArraysEXERCISE\obj\Debug\net7.0\ArraysEXERCISE.AssemblyInfoInputs.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\ArraysEXERCISE\obj\Debug\net7.0\ArraysEXERCISE.AssemblyInfo.cs
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\ArraysEXERCISE\obj\Debug\net7.0\ArraysEXERCISE.csproj.CoreCompileInputs.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\ArraysEXERCISE\obj\Debug\net7.0\ArraysEXERCISE.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\ArraysEXERCISE\obj\Debug\net7.0\refint\ArraysEXERCISE.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\ArraysEXERCISE\obj\Debug\net7.0\ArraysEXERCISE.pdb
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\ArraysEXERCISE\obj\Debug\net7.0\ArraysEXERCISE.genruntimeconfig.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\ArraysEXERCISE\obj\Debug\net7.0\ref\ArraysEXERCISE.dll

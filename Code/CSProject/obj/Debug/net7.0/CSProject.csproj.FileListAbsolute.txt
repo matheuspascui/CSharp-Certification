@@ -1,0 +1,14 @@
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CSProject\bin\Debug\net7.0\CSProject.exe
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CSProject\bin\Debug\net7.0\CSProject.deps.json
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CSProject\bin\Debug\net7.0\CSProject.runtimeconfig.json
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CSProject\bin\Debug\net7.0\CSProject.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CSProject\bin\Debug\net7.0\CSProject.pdb
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CSProject\obj\Debug\net7.0\CSProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CSProject\obj\Debug\net7.0\CSProject.AssemblyInfoInputs.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CSProject\obj\Debug\net7.0\CSProject.AssemblyInfo.cs
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CSProject\obj\Debug\net7.0\CSProject.csproj.CoreCompileInputs.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CSProject\obj\Debug\net7.0\CSProject.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CSProject\obj\Debug\net7.0\refint\CSProject.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CSProject\obj\Debug\net7.0\CSProject.pdb
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CSProject\obj\Debug\net7.0\CSProject.genruntimeconfig.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CSProject\obj\Debug\net7.0\ref\CSProject.dll

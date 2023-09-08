@@ -1,0 +1,14 @@
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CallMETHODS\obj\Debug\net7.0\CallMETHODS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CallMETHODS\obj\Debug\net7.0\CallMETHODS.AssemblyInfoInputs.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CallMETHODS\obj\Debug\net7.0\CallMETHODS.AssemblyInfo.cs
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CallMETHODS\obj\Debug\net7.0\CallMETHODS.csproj.CoreCompileInputs.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CallMETHODS\bin\Debug\net7.0\CallMETHODS.exe
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CallMETHODS\bin\Debug\net7.0\CallMETHODS.deps.json
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CallMETHODS\bin\Debug\net7.0\CallMETHODS.runtimeconfig.json
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CallMETHODS\bin\Debug\net7.0\CallMETHODS.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CallMETHODS\bin\Debug\net7.0\CallMETHODS.pdb
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CallMETHODS\obj\Debug\net7.0\CallMETHODS.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CallMETHODS\obj\Debug\net7.0\refint\CallMETHODS.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CallMETHODS\obj\Debug\net7.0\CallMETHODS.pdb
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CallMETHODS\obj\Debug\net7.0\CallMETHODS.genruntimeconfig.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\CallMETHODS\obj\Debug\net7.0\ref\CallMETHODS.dll

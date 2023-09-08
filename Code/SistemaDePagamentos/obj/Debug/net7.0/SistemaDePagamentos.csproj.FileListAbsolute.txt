@@ -1,0 +1,14 @@
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\SistemaDePagamentos\obj\Debug\net7.0\SistemaDePagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\SistemaDePagamentos\obj\Debug\net7.0\SistemaDePagamentos.AssemblyInfoInputs.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\SistemaDePagamentos\obj\Debug\net7.0\SistemaDePagamentos.AssemblyInfo.cs
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\SistemaDePagamentos\obj\Debug\net7.0\SistemaDePagamentos.csproj.CoreCompileInputs.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\SistemaDePagamentos\bin\Debug\net7.0\SistemaDePagamentos.exe
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\SistemaDePagamentos\bin\Debug\net7.0\SistemaDePagamentos.deps.json
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\SistemaDePagamentos\bin\Debug\net7.0\SistemaDePagamentos.runtimeconfig.json
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\SistemaDePagamentos\bin\Debug\net7.0\SistemaDePagamentos.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\SistemaDePagamentos\bin\Debug\net7.0\SistemaDePagamentos.pdb
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\SistemaDePagamentos\obj\Debug\net7.0\SistemaDePagamentos.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\SistemaDePagamentos\obj\Debug\net7.0\refint\SistemaDePagamentos.dll
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\SistemaDePagamentos\obj\Debug\net7.0\SistemaDePagamentos.pdb
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\SistemaDePagamentos\obj\Debug\net7.0\SistemaDePagamentos.genruntimeconfig.cache
+C:\Users\mathe\ALLBACKUP\CSharpCert\Code\SistemaDePagamentos\obj\Debug\net7.0\ref\SistemaDePagamentos.dll
